@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hitung Volume Limas Segi Empat</string>
+
+    <string-array name="category">
+        <item>Pilih</item>
+        <item>Persegi</item>
+        <item>Persegi Panjang</item>
+        <item>Belah Ketupat</item>
+        <item>Jajar Genjang</item>
+        <item>Layang-Layang</item>
+        <item>Trapesium</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
